@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 
-Official implementation of **"The AGI-Powered Metaverse: A Decentralized Task-Based Cognitive Architecture"** submitted to IEEE Access (2025).
+Official implementation of **"The AGI-Powered Metaverse: A Decentralized Task-Based Cognitive Architecture"** submitted to IEEE Access (2026).
 
 **Author**: Andrey Nechesov (Novosibirsk State University)
 
@@ -321,7 +321,8 @@ Contributions are welcome! Please:
 
 ## 🙏 Acknowledgments
 
-This research was supported by [funding source].
+This work was supported by a grant for research centers, provided by the Ministry of Economic Development of the Russian Federation in accordance with the subsidy agreement with the Novosibirsk
+State University dated April 17, 2025 No. 139-15-2025-006: IGK 000000C313925P3S0002..
 
 Special thanks to reviewers for valuable feedback that significantly improved this work.
 
@@ -347,4 +348,4 @@ Special thanks to reviewers for valuable feedback that significantly improved th
 
 ---
 
-**Last Updated**: January 2025
+**Last Updated**: January 2026
