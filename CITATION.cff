@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "AGI-Powered Metaverse: Task-Based Cognitive Architecture"
+version: 1.0.0
+date-released: 2025-01-07
+authors:
+  - family-names: "Nechesov"
+    given-names: "Andrey"
+    email: "nechesov@gmail.com"
+    affiliation: "Novosibirsk State University"
+repository-code: "https://github.com/nechesov/agi-metaverse-tbca"
+url: "https://github.com/nechesov/agi-metaverse-tbca"
+license: MIT
+keywords:
+  - artificial-general-intelligence
+  - neuro-symbolic-ai
+  - blockchain
+  - metaverse
+  - large-language-models
+  - knowledge-graphs
+  - cognitive-architecture
+abstract: >
+  Official implementation of "The AGI-Powered Metaverse: A Decentralized
+  Task-Based Cognitive Architecture" - a hybrid system combining large
+  language models, symbolic logic verification, and multi-layer blockchain
+  for cumulative learning and verifiable reasoning.

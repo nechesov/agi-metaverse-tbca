@@ -1,0 +1,40 @@
+# AGI-Powered Metaverse: Task-Based Cognitive Architecture
+# Python 3.10+ required
+
+# Core dependencies
+numpy==2.3.3
+pandas==3.0.0rc0
+scipy==1.16.3
+
+# LLM APIs (optional - for full experiments)
+openai==1.3.5
+anthropic==0.7.1
+
+# Logic & Reasoning
+z3-solver==4.12.2.0
+networkx==3.1
+
+# Symbolic AI (lightweight alternatives)
+# Note: Full experiments require Neo4j database (see docs/INSTALLATION.md)
+sentence-transformers==2.2.2
+
+# CLI & UI
+click==8.1.7
+tqdm==4.66.1
+colorama==0.4.6
+
+# Data handling
+pyyaml==6.0.1
+python-dotenv==1.0.0
+jsonlines==4.0.0
+
+# Visualization
+matplotlib==3.10.5
+seaborn==0.12.2
+
+# Testing (optional)
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Utilities
+requests==2.31.0

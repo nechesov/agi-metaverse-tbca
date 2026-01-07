@@ -1,0 +1,5 @@
+{"id": "math_001", "task": "A store sells notebooks for $3 each and pens for $2 each. If Sarah buys 5 notebooks and some pens, spending $25 total, how many pens did she buy?", "answer": "5", "domain": "math", "difficulty": "medium", "steps": 3}
+{"id": "math_002", "task": "John has 15 apples. He gives 1/3 of them to his friend. How many apples does John have left?", "answer": "10", "domain": "math", "difficulty": "easy", "steps": 2}
+{"id": "math_003", "task": "A rectangle has a length of 12 cm and a width of 5 cm. What is its area?", "answer": "60", "domain": "math", "difficulty": "easy", "steps": 1}
+{"id": "math_004", "task": "If x + 7 = 15, what is the value of 2x?", "answer": "16", "domain": "math", "difficulty": "medium", "steps": 2}
+{"id": "math_005", "task": "A car travels 60 km in 45 minutes. What is its average speed in km/h?", "answer": "80", "domain": "math", "difficulty": "medium", "steps": 2}
