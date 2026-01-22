@@ -1,0 +1,30 @@
+{"id": "math_001", "task": "A store sells notebooks for $3 each and pens for $2 each. If Sarah buys 5 notebooks and some pens, spending $25 total, how many pens did she buy?", "answer": "5", "domain": "math", "difficulty": "medium", "steps": 3}
+{"id": "math_002", "task": "John has 15 apples. He gives 1/3 of them to his friend. How many apples does John have left?", "answer": "10", "domain": "math", "difficulty": "easy", "steps": 2}
+{"id": "math_003", "task": "A rectangle has a length of 12 cm and a width of 5 cm. What is its area?", "answer": "60", "domain": "math", "difficulty": "easy", "steps": 1}
+{"id": "math_004", "task": "If x + 7 = 15, what is the value of 2x?", "answer": "16", "domain": "math", "difficulty": "medium", "steps": 2}
+{"id": "math_005", "task": "A car travels 60 km in 45 minutes. What is its average speed in km/h?", "answer": "80", "domain": "math", "difficulty": "medium", "steps": 2}
+{"id": "math_006", "task": "Maria has $120. She spends 40% on clothes and 25% on food. How much money does she have left?", "answer": "42", "domain": "math", "difficulty": "medium", "steps": 3}
+{"id": "math_007", "task": "The sum of three consecutive integers is 48. What is the smallest of these integers?", "answer": "15", "domain": "math", "difficulty": "medium", "steps": 3}
+{"id": "math_008", "task": "A triangle has angles measuring 45° and 60°. What is the measure of the third angle?", "answer": "75", "domain": "math", "difficulty": "easy", "steps": 2}
+{"id": "math_009", "task": "If 5 workers can complete a job in 8 days, how many days will it take 10 workers to complete the same job?", "answer": "4", "domain": "math", "difficulty": "medium", "steps": 3}
+{"id": "math_010", "task": "A cylinder has a radius of 3 cm and height of 10 cm. What is its volume? (Use π ≈ 3.14)", "answer": "282.6", "domain": "math", "difficulty": "medium", "steps": 2}
+{"id": "math_011", "task": "The price of a shirt is $45 after a 25% discount. What was the original price?", "answer": "60", "domain": "math", "difficulty": "medium", "steps": 3}
+{"id": "math_012", "task": "If f(x) = 2x + 3 and f(a) = 11, what is the value of a?", "answer": "4", "domain": "math", "difficulty": "medium", "steps": 2}
+{"id": "math_013", "task": "A box contains 8 red balls and 12 blue balls. What is the probability of randomly selecting a red ball?", "answer": "0.4", "domain": "math", "difficulty": "easy", "steps": 2}
+{"id": "math_014", "task": "Solve for x: 3(x - 4) = 2x + 5", "answer": "17", "domain": "math", "difficulty": "medium", "steps": 4}
+{"id": "math_015", "task": "A train 200 meters long passes a pole in 10 seconds. What is its speed in m/s?", "answer": "20", "domain": "math", "difficulty": "easy", "steps": 2}
+{"id": "math_016", "task": "What is the slope of the line passing through points (2, 3) and (6, 11)?", "answer": "2", "domain": "math", "difficulty": "medium", "steps": 2}
+{"id": "math_017", "task": "A bag contains 5 red, 3 green, and 2 yellow marbles. If you draw 2 marbles without replacement, what is the probability both are red?", "answer": "0.222", "domain": "math", "difficulty": "complex", "steps": 4}
+{"id": "math_018", "task": "The perimeter of a square is 48 cm. What is the length of its diagonal? (Round to nearest integer)", "answer": "17", "domain": "math", "difficulty": "medium", "steps": 3}
+{"id": "math_019", "task": "If log₂(x) = 5, what is the value of x?", "answer": "32", "domain": "math", "difficulty": "medium", "steps": 2}
+{"id": "math_020", "task": "A rectangular garden is 3 times as long as it is wide. If the perimeter is 96 meters, what is the length?", "answer": "36", "domain": "math", "difficulty": "medium", "steps": 4}
+{"id": "math_021", "task": "Evaluate: ∫(from 0 to 2) x² dx", "answer": "2.667", "domain": "math", "difficulty": "complex", "steps": 3}
+{"id": "math_022", "task": "A population grows from 1000 to 1500 in 3 years. What is the annual growth rate? (Round to nearest percent)", "answer": "14", "domain": "math", "difficulty": "complex", "steps": 4}
+{"id": "math_023", "task": "Solve the system: 2x + y = 10 and x - y = 2. What is x?", "answer": "4", "domain": "math", "difficulty": "medium", "steps": 4}
+{"id": "math_024", "task": "A cone has a base radius of 5 cm and height of 12 cm. What is its volume? (Use π ≈ 3.14)", "answer": "314", "domain": "math", "difficulty": "medium", "steps": 2}
+{"id": "math_025", "task": "If sin(θ) = 0.6 and θ is acute, what is cos(θ)?", "answer": "0.8", "domain": "math", "difficulty": "complex", "steps": 3}
+{"id": "math_026", "task": "A sequence is defined by aₙ = 3n - 2. What is the sum of the first 10 terms?", "answer": "145", "domain": "math", "difficulty": "complex", "steps": 4}
+{"id": "math_027", "task": "The ratio of boys to girls in a class is 3:5. If there are 24 students total, how many girls are there?", "answer": "15", "domain": "math", "difficulty": "medium", "steps": 3}
+{"id": "math_028", "task": "A cube has a surface area of 96 cm². What is its volume?", "answer": "64", "domain": "math", "difficulty": "medium", "steps": 3}
+{"id": "math_029", "task": "If matrix A = [[2, 1], [0, 3]] and B = [[1, 0], [2, 1]], what is the element at position (1,2) in A×B?", "answer": "1", "domain": "math", "difficulty": "complex", "steps": 4}
+{"id": "math_030", "task": "A radioactive substance decays to 25% of its original amount in 20 days. What is its half-life in days?", "answer": "10", "domain": "math", "difficulty": "complex", "steps": 4}

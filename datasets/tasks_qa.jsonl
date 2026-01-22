@@ -1,0 +1,30 @@
+{"id": "qa_001", "task": "Who wrote the novel '1984'?", "answer": "George Orwell", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_002", "task": "What is the capital city of Australia?", "answer": "Canberra", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_003", "task": "In which year did World War II end?", "answer": "1945", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_004", "task": "What is the chemical symbol for gold?", "answer": "Au", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_005", "task": "Who painted the Mona Lisa?", "answer": "Leonardo da Vinci", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_006", "task": "Mount Everest is located on the border between which two countries?", "answer": "Nepal and China", "domain": "qa", "difficulty": "medium", "steps": 2}
+{"id": "qa_007", "task": "What is the smallest unit of life?", "answer": "Cell", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_008", "task": "Which planet is known as the Red Planet?", "answer": "Mars", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_009", "task": "Who was the first person to walk on the Moon?", "answer": "Neil Armstrong", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_010", "task": "What is the largest ocean on Earth?", "answer": "Pacific Ocean", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_011", "task": "Albert Einstein developed which famous theory in 1905?", "answer": "Special Relativity", "domain": "qa", "difficulty": "medium", "steps": 2}
+{"id": "qa_012", "task": "What year did the Berlin Wall fall?", "answer": "1989", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_013", "task": "Who wrote 'Romeo and Juliet'?", "answer": "William Shakespeare", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_014", "task": "What is the speed of light in vacuum (in km/s)?", "answer": "299792", "domain": "qa", "difficulty": "medium", "steps": 1}
+{"id": "qa_015", "task": "Which country hosted the 2016 Summer Olympics?", "answer": "Brazil", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_016", "task": "What is the longest river in the world?", "answer": "Nile River", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_017", "task": "Who discovered penicillin?", "answer": "Alexander Fleming", "domain": "qa", "difficulty": "medium", "steps": 1}
+{"id": "qa_018", "task": "What is the currency of Japan?", "answer": "Yen", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_019", "task": "Which scientist proposed the three laws of motion?", "answer": "Isaac Newton", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_020", "task": "What is the largest mammal in the world?", "answer": "Blue whale", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_021", "task": "The Statue of Liberty was a gift from which country to the United States?", "answer": "France", "domain": "qa", "difficulty": "medium", "steps": 2}
+{"id": "qa_022", "task": "What is the boiling point of water at sea level in Celsius?", "answer": "100", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_023", "task": "Who invented the telephone?", "answer": "Alexander Graham Bell", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_024", "task": "What is the smallest country in the world by area?", "answer": "Vatican City", "domain": "qa", "difficulty": "medium", "steps": 1}
+{"id": "qa_025", "task": "Marie Curie won Nobel Prizes in which two scientific fields?", "answer": "Physics and Chemistry", "domain": "qa", "difficulty": "medium", "steps": 2}
+{"id": "qa_026", "task": "What is the hardest natural substance on Earth?", "answer": "Diamond", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_027", "task": "The Great Wall of China was primarily built during which dynasty?", "answer": "Ming Dynasty", "domain": "qa", "difficulty": "medium", "steps": 2}
+{"id": "qa_028", "task": "Who wrote 'The Origin of Species'?", "answer": "Charles Darwin", "domain": "qa", "difficulty": "easy", "steps": 1}
+{"id": "qa_029", "task": "What is the atomic number of carbon?", "answer": "6", "domain": "qa", "difficulty": "medium", "steps": 1}
+{"id": "qa_030", "task": "Which programming language was created by Guido van Rossum?", "answer": "Python", "domain": "qa", "difficulty": "medium", "steps": 2}
